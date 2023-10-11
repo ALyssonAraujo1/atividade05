@@ -1,0 +1,5 @@
+metragem = float(input("digite a metragem"))
+centimetro = (metragem / 10)
+print("em centímetros",centimetro)
+milimetro = (metragem / 100)
+print("em milímetros",milimetro)
